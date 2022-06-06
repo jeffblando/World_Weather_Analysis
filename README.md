@@ -2,4 +2,4 @@
 
 ### Overview 
 
-The purpose of this analysis was to provide detailed information using the API retrieval method. Using the information collected, it was then processed to create heatmaps and driving itineraries.
+The purpose of this analysis was to build the recommended changes from the beta testers for the 'PlanMyTrip App', which would allow users to input their individual preferences and create a customized itinerary.
